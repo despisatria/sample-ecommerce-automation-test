@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify product list sorting by Price</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f0862221-0e47-4a95-8ec9-b30c413e2bb2</testCaseGuid>
+</TestCaseEntity>
