@@ -19,7 +19,7 @@ import org.openqa.selenium.Keys as Keys
 
 // Open browser, open website, and go to login page
 WebUI.openBrowser("")
-WebUI.navigateToUrl("www.sample-ecommerce-web.com")
+WebUI.navigateToUrl(GlobalVariable.url)
 WebUI.click(findTestObject("HomePage_LoginButton"))
 
 // Define test data
